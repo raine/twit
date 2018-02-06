@@ -1,5 +1,5 @@
 {
-  "name": "twit",
+  "name": "@rane/twit",
   "description": "Twitter API client for node (REST & Streaming)",
   "version": "2.2.9",
   "author": "Tolga Tezel",
